@@ -1,1 +1,1 @@
-# picture
+# Redraw the figures
